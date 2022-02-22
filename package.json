@@ -1,0 +1,26 @@
+{
+  "name": "cubosbank",
+  "version": "1.0.0",
+  "description": "Sistema bancário feito no desafio do segundo módulo de backend do curso de Programação do Zero na Cubos Academy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatrizbrancalhao/Cubosbank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beatrizbrancalhao/Cubosbank/issues"
+  },
+  "homepage": "https://github.com/beatrizbrancalhao/Cubosbank#readme",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15",
+    "yup": "^0.32.11"
+  }
+}
